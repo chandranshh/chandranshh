@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandranshh&theme=radical" alt="chandranshh" /></a> </p>
 
-- I’m currently working on [clothigan](https://github.com/chandranshh/clothigan)
-
+- I’m currently working on [clothigan](https://github.com/chandranshh/clothigan) 
+& [walkie-talkie](https://github.com/chandranshh/walkie-talkie)
 - I’m currently learning **Firebase, Next.js, TypeScript**
 
 - How to reach me **chandranshyay@gmail.com**
