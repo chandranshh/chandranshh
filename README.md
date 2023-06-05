@@ -10,7 +10,7 @@
 & [walkie-talkie](https://github.com/chandranshh/walkie-talkie)
 - I’m currently learning **Firebase, Next.js, TypeScript**
 
-- How to reach me **chandranshyay@gmail.com**
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/chandransh-srivastava-037644225)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
