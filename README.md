@@ -1,7 +1,7 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chandransh+Srivastava" alt="Typing SVG" /></h1>
 <h3 align="center">Full Stack Developer in MERN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranshh&label=Profile%20views&color=0e75b6&style=flat" alt="chandranshh" /> <a href="https://wakatime.com/@c4ec45c0-9c23-452f-ae8c-944e3e2768bb"><img src="https://wakatime.com/badge/user/c4ec45c0-9c23-452f-ae8c-944e3e2768bb.svg" alt="Total time coded since Dec 19 2022" /></a> </p>
+<p align="left  "> <img src="https://komarev.com/ghpvc/?username=chandranshh&label=Profile%20views&color=0e75b6&style=flat" alt="chandranshh" /> <a href="https://wakatime.com/@c4ec45c0-9c23-452f-ae8c-944e3e2768bb"><img src="https://wakatime.com/badge/user/c4ec45c0-9c23-452f-ae8c-944e3e2768bb.svg" alt="Total time coded since Dec 19 2022" /></a> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandranshh&theme=radical" alt="chandranshh" /></a> </p>
